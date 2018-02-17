@@ -41,4 +41,5 @@ def play(board)
   10.times do
     turn(board)
   end
+  break
 end
